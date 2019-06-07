@@ -20,10 +20,10 @@ np.random.seed(2387)
 
 # Initialize Parameters
 N = 2**7 # number of samples (2**7, 2**8 used in paper)
-eps_num = 200; eps_denom = 1 # numerator/demoninator of following epsilon 
+eps_num = 2; eps_denom = 1 # numerator/demoninator of following epsilon 
 epsilon_small = eps_num*np.pi/(eps_denom*N) # Set epsilon
 alpha = 1 # Effect of density in Q**(-alpha)KQ**(-alpha) (0: KEEP; 1: CANCEL)
-case = 6 # 0: Barbell 
+case = 4 # 0: Barbell 
 # 1: Tree
 # 2: Gaussian Mix 
 # 3: Hyperuniform Circle
