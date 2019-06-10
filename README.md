@@ -12,8 +12,4 @@ Some of the output may be imported into `condensation_load_spectra_<version>.py`
 #### Media
 The `media` folder contains `.mp4` videos generated using `condensation_<version>.py`. We believe the presentation of these dynamic videos ecourages the development of an intuition about the algorithm and its effects when iteratively applied to a data set.  
 ## Authors
-<<<<<<< HEAD
 These scripts were created by Nathan Brugnone and Matthew J. Hirn.
-=======
-These scripts were created by Nathan Brugnone and Matthew J. Hirn.
->>>>>>> 66273e903f9dd1b8b7efac046bcd00a228d0c970
