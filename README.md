@@ -8,6 +8,7 @@ One will find `condensation_<version>.py` and `condensation_load_spectra_<versio
 1. Open `condensation_<version>.py` in your favorite IDE
 2. Choose parameter levels via `strings` and `floats` just below `module` imports 
 3. Run the script
+
 Some of the output may be imported into `condensation_load_spectra_<version>.py`. Specifically, if `save_spectra = True`, then one may use `condensation_load_spectra_<version>.py` to plot the singular values and create 2-D/3-D spectral embeddings, the latter of which are provided to encourage experimentation. Beware, however, that one may need to find a suitable basis in which to rotate the data for intelligble embedding. Subsequent versions will include tools to assist with this process. 
 #### Media
 The `media` folder contains `.mp4` videos generated using `condensation_<version>.py`. We believe the presentation of these dynamic videos ecourages the development of an intuition about the algorithm and its effects when iteratively applied to a data set.  
