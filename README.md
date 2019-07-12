@@ -1,6 +1,6 @@
 # Condensation
-The Condensation project provides the latest code associated with the paper, "_Coarse Grainging of Data via Inhomogeneous Diffusion Condensation_," which details a clustering algorithm that iteratively employs deep cascades of intrinsic low-pass filters in a given data set. The paper is available on the arXiv at [URL Coming Soon].  
->Jupyter Notebook implemention **now availeble**!    
+The Condensation project provides the latest code associated with our paper, "_Coarse Grainging of Data via Inhomogeneous Diffusion Condensation_," which details a clustering algorithm that iteratively employs deep cascades of intrinsic low-pass filters in a given data set. The paper is available on [arXiv](https://arxiv.org/abs/1907.04463).  
+>Jupyter Notebook implemention **now availeble** [here](code/condensation_animations.ipynb)!    
 ## Getting Started
 ### Condensation code and media
 #### Code
